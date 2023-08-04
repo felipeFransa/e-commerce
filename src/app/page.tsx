@@ -2,7 +2,7 @@ import { NavBar } from "./components/navBar"
 
 export default function home () {
   return (
-    <div>
+    <div className="container mx-auto">
       <NavBar />
     </div>
   )
