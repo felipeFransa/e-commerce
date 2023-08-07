@@ -2,7 +2,7 @@ import Pesquisa from "@/app/assets/icos/procurar.svg";
 
 export const NavBar = () => {
     return (
-        <div className="w-full h-full flex flex-row justify-center items-center mb-4">
+        <div className="w-full h-full flex flex-row justify-center items-center mb-2 mt-2">
 
             <div className="w-full h-full flex flex-col sm:flex-row justify-between items-center">
                 

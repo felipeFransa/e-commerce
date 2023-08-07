@@ -1,11 +1,13 @@
 import { NavBar } from "@/app/components/navBar";
 import { Main } from "@/app/components/main";
+import { Partners } from "@/app/components/partners";
 
 export default function home () {
   return (
-    <div className="container mx-auto bg-gradient-to-r from-cyan-500 to-blue-500">
+    <div className="container mx-auto">
       <NavBar />
       <Main />
+      <Partners />
     </div>
   )
 }
