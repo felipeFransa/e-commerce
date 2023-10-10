@@ -12,6 +12,7 @@ export default function home () {
       <Main />
       <Partners />
       <Adverts />
+      <Partners />
       <Payment />
       <Footer />
     </div>
